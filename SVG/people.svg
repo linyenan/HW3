@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="11.243" viewBox="0 0 16 11.243">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Shape" d="M7.2,11.243V9.436c0-1.47,2.936-2.209,4.4-2.209S16,7.966,16,9.436v1.807Zm-7.2,0V9.235C0,7.364,3.736,6.425,5.6,6.425a9.792,9.792,0,0,1,1.9.225A3.166,3.166,0,0,0,5.6,9.436v1.807ZM9.6,3.614a2,2,0,1,1,2,2.008A2.005,2.005,0,0,1,9.6,3.614Zm-6.4-1.2a2.4,2.4,0,1,1,2.4,2.41A2.4,2.4,0,0,1,3.2,2.409Z" fill="#b1d660"/>
+    </clipPath>
+  </defs>
+  <g id="Group_2487" data-name="Group 2487" transform="translate(-0.333 0.167)">
+    <path id="Shape-2" data-name="Shape" d="M7.2,11.243V9.436c0-1.47,2.936-2.209,4.4-2.209S16,7.966,16,9.436v1.807Zm-7.2,0V9.235C0,7.364,3.736,6.425,5.6,6.425a9.792,9.792,0,0,1,1.9.225A3.166,3.166,0,0,0,5.6,9.436v1.807ZM9.6,3.614a2,2,0,1,1,2,2.008A2.005,2.005,0,0,1,9.6,3.614Zm-6.4-1.2a2.4,2.4,0,1,1,2.4,2.41A2.4,2.4,0,0,1,3.2,2.409Z" transform="translate(0.333 -0.167)" fill="#b1d660"/>
+    <g id="Mask_Group_162" data-name="Mask Group 162" transform="translate(0.333 -0.167)" clip-path="url(#clip-path)">
+      <g id="Icon_Fill" data-name="Icon Fill" transform="translate(-1.73 -3.892)">
+        <rect id="BG" width="19.027" height="19.027" fill="#b1d660"/>
+      </g>
+    </g>
+  </g>
+</svg>

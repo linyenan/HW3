@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>
+       
+        test</title>
+
+
+</head>
+<body>
+    <div class="card-wrapper"></div>
+        
+         
+        
+    <div class="form-container active">
+    
+      <form action="">
+
+        <input type="text" name="number">
+    
+        <input type="text" name="first-name"/>
+    
+        <input type="text" name="last-name"/>
+    
+        <input type="text" name="expiry"/>
+    
+        <input type="text" name="cvc"/>
+    
+      </form>
+    
+    </div>
+
+    <script src="./js/jquery-3.6.0.js"></script>
+    <script src="./JS_WCY/jquery.card.js"></script>
+    <!-- <script src="./JS_WCY/card.js"></script> -->
+
+    <script>
+
+
+ 
+
+// Vanilla JavaScript
+
+new Card({
+
+  form: document.querySelector('form'),
+
+  container:'.card-wrapper'
+
+});
+
+    </script>
+</body>
+</html>

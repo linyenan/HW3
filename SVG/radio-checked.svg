@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <filter id="Rectangle_1487">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.161" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_2777" data-name="Group 2777" transform="translate(-2477 -1504)">
+    <g id="Group_881" data-name="Group 881" transform="translate(1982 1120)">
+      <g data-type="innerShadowGroup">
+        <rect id="Rectangle_1487-2" data-name="Rectangle 1487" width="30" height="30" rx="15" transform="translate(495 384)" fill="#fff"/>
+        <g transform="matrix(1, 0, 0, 1, 495, 384)" filter="url(#Rectangle_1487)">
+          <rect id="Rectangle_1487-3" data-name="Rectangle 1487" width="30" height="30" rx="15" fill="#fff"/>
+        </g>
+        <g id="Rectangle_1487-4" data-name="Rectangle 1487" transform="translate(495 384)" fill="none" stroke="#d9d9d9" stroke-width="1">
+          <rect width="30" height="30" rx="15" stroke="none"/>
+          <rect x="0.5" y="0.5" width="29" height="29" rx="14.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_880" data-name="Group 880" transform="translate(1985.792 1123.792)">
+      <rect id="Rectangle_1487-5" data-name="Rectangle 1487" width="22" height="22" rx="11" transform="translate(495.208 384.208)" fill="#ff9f1c"/>
+    </g>
+  </g>
+</svg>
